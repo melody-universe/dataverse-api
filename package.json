@@ -1,6 +1,6 @@
 {
   "name": "dataverse-api",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "Super-boundary for interacting with the Microsoft Dataverse Web API using the Xrm.WebApi definition, or a wrapper around the Fetch API when Xrm.WebApi does not suffice.",
   "browser": "dist/browser.js",
   "main": "dist/index.js",
